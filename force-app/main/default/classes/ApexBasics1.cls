@@ -16,9 +16,8 @@ public with sharing class ApexBasics1 {
         public HelloWorld(){
             //This generates a line in the log saying hello world.
             system.debug('Hello World');
+            system.debug('Hello Again!');
         }
-
-    }
 //
 //	HelloWorld2
 //	Created on: 01/17/2019
