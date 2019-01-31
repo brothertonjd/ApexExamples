@@ -1,0 +1,3 @@
+.sfdx/tools/tempApex.input
+force-app/main/default/classes/TestClass.cls
+force-app/main/default/classes/TestClass.cls-meta.xml
