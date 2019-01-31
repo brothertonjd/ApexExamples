@@ -3,7 +3,7 @@ public with sharing class ApexBasics1 {
 //
 //	HelloWorld
 //	Created on: 01/17/2019
-//	Author: Harvey Hill
+//	Author: Harvney Hill
 //	Description: Simple class to output 'Hello World' as a system.debug
 //	line as an example of Apex code.
 //
@@ -18,6 +18,7 @@ public with sharing class ApexBasics1 {
             system.debug('Hello World');
             system.debug('Hello Again!');
         }
+    }
 //
 //	HelloWorld2
 //	Created on: 01/17/2019
